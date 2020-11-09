@@ -1,2 +1,2 @@
-# Apple_Podcasts_Fetcher
-Apple Podcasts Fetcher
+# Apple Podcasts Fetcher
+Fetching Podcast Playlists Data From Apple Website
